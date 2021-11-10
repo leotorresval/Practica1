@@ -1,4 +1,5 @@
 Indicaciones generales de proyecto de fin de curso
 Formar grupos de 3 personas
 Plantee el desarrollo de un proyecto web en donde se haga uso de base de datos....
-Prueba desde master
+<<<<<<< HEAD
+Prueba desde master y develop
