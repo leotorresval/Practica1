@@ -11,8 +11,14 @@ public class Empleado(){
 		return this.nombre
 	}
 
+
 	public void setNombre(String nombre){
 		this.nombre=nombre;	
+	}
+
+
+	public void setCedula(String cedula){
+		this.cedula= cedula;
 	}
 
 
