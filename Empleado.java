@@ -11,6 +11,9 @@ public class Empleado(){
 		return this.nombre
 	}
 
+	public void setCedula(String cedula){
+		this.cedula= cedula;
+	}
 
 }
 
